@@ -17,7 +17,7 @@ int main(){
     float sum;
     int x1 = x;
     int y1 = y1;
-ecuacion:
+equacao:
    cout << "o que deseja fazer?" << endl;
    cout << "1=somar, 2=restante, 3=multiplicacao, 4=divisao, 5=elevar, 6=numero aleatorio, 7=soma das raizes, 8=porcentagem, 9=raiz quadrada, 10=logaritmo, 11=promedio 5 numeros" << endl;
    cin >> thing;
@@ -102,7 +102,7 @@ ecuacion:
 
    else{
     cout << "\n oxi doido isso e a opcao que eu coloquei na tela olha direito tio\n" << endl;
-    goto ecuacion;
+    goto equacao;
    }
 
    return 0;
